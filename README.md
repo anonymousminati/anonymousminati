@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://github.com/anonymousminati/anonymousminati/assets/96016022/dca1ecd5-9de4-4d35-84a0-7756e582f853" align="center"  width="200" />
-</div>  
+</div>  !-->
   
 
 ### <div align="center">I'm Prathamesh Malode, a full-stack Web developer and Flutter Application Developer 👨‍💻 </div>  
