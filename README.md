@@ -12,6 +12,17 @@
   <img src="https://img.shields.io/github/stars/anonymousminati?style=social" alt="GitHub stars" />
 </p>
 
+## 💻 Who Am I?
+<div align="center">
+  <img src="https://img.shields.io/badge/🧑‍💻%20Programmer-Life-FF6B6B?style=for-the-badge&labelColor=2C3E50&color=E74C3C" alt="Programmer Life" />
+</div>
+
+"I am a programmer, plain and simple. I don't have traditional hobbies, can't sing or dance, and I'm not an artist. The only thing I truly love and excel at is coding and developing projects. That's my passion, my craft, and my world."
+
+<div align="center">
+  <img src="https://github.com/anonymousminati/anonymousminati/raw/main/assets/coding-gif.gif" alt="Coding GIF" width="400" height="250" />
+</div>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working as **Software Developer Engineer I at Comdata Innovation Pvt. Ltd.**
